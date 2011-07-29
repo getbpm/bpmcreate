@@ -1,0 +1,15 @@
+{
+  "name":         "jquery",
+  "version":      "1.0",
+
+  "description":  "jquery Package",
+  "summary":      "jquery Package",
+  "author":       "Peter Wagenet",
+  "homepage":     "http://github.com/getbpm/bpm",
+
+  "directories": {
+    "lib": "lib"
+  },
+
+  "main": "lib/jquery"
+}

@@ -1,0 +1,15 @@
+{
+  "name":         "<%= name %>",
+  "version":      "<%= version %>",
+
+  "description":  "<%= description %>",
+  "summary":      "<%= summary %>",
+  "author":       "<%= author %>",
+  "homepage":     "<%= homepage %>",
+
+  "directories": {
+    "lib": "lib"
+  },
+
+  "main": "lib/<%= name %>"
+}

@@ -1,0 +1,5 @@
+bundle
+.bundle
+*.swp
+Gemfile.lock
+devbin
